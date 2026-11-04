@@ -1,6 +1,6 @@
 cask "takes" do
-  version "0.5.0"
-  sha256 "3e31a7cc35e18eca94222b003c5da1ddebedfb25b06295aa393252aa1c3d6efe"
+  version "0.5.1"
+  sha256 "5e6704ac197594ab5cc641425cda9d02684bea7c4a29c0a94bfe698a5adfc78e"
 
   url "https://github.com/bar-amir/takes/releases/download/v#{version}/Takes-#{version}.dmg"
   name "Takes"
